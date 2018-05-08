@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DemoXMLfileCreation" duration-ms="260624" started-at="2018-05-08T11:26:12Z" finished-at="2018-05-08T11:30:33Z">
+    <groups>
+    </groups>
+    <test name="demoxml" duration-ms="260624" started-at="2018-05-08T11:26:12Z" finished-at="2018-05-08T11:30:33Z">
+      <class name="com.test.automation.uiHB.Tc_001">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiHB.Tc_001@13deb50e]" name="setUp" is-config="true" duration-ms="30719" started-at="2018-05-08T06:26:15Z" finished-at="2018-05-08T06:26:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="hpEnterValues(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiHB.Tc_001@13deb50e]" name="hpEnterValues" duration-ms="52028" started-at="2018-05-08T06:26:46Z" data-provider="userData" finished-at="2018-05-08T06:27:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Infosys]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Infosys Limited(INFY)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpEnterValues -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiHB.Tc_001@13deb50e]" name="setUp" is-config="true" duration-ms="16644" started-at="2018-05-08T06:27:38Z" finished-at="2018-05-08T06:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="hpEnterValues(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiHB.Tc_001@13deb50e]" name="hpEnterValues" duration-ms="58682" started-at="2018-05-08T06:27:54Z" data-provider="userData" finished-at="2018-05-08T06:28:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[micros]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kernex Microsystems (India) Limited(KERNEX)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpEnterValues -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiHB.Tc_001@13deb50e]" name="setUp" is-config="true" duration-ms="32401" started-at="2018-05-08T06:28:53Z" finished-at="2018-05-08T06:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="hpEnterValues(java.lang.String, java.lang.String)[pri:0, instance:com.test.automation.uiHB.Tc_001@13deb50e]" name="hpEnterValues" duration-ms="67707" started-at="2018-05-08T06:29:25Z" data-provider="userData" finished-at="2018-05-08T06:30:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[icici]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ICICI Bank Limited(ICICIBANK)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpEnterValues -->
+      </class> <!-- com.test.automation.uiHB.Tc_001 -->
+    </test> <!-- demoxml -->
+  </suite> <!-- DemoXMLfileCreation -->
+</testng-results>

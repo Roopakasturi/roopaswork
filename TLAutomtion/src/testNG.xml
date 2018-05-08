@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="DemoXMLfileCreation" verbose="1" >
+  <test name="demoxml" >
+    <classes>
+       <class name="com.hb.qa.base.testBase" />
+       <class name="com.hb.qa.utils.constant" />
+        <class name="com.hb.qa.utils.excelUtils" />
+        <class name="com.test.automation.uiHB.Tc_001" />
+    </classes>
+  </test>
+</suite>
